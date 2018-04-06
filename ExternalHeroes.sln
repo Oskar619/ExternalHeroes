@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronMan", "IronMan\IronMan.csproj", "{F35B019D-B448-4241-90AC-19FDFAEC8390}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F35B019D-B448-4241-90AC-19FDFAEC8390}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35B019D-B448-4241-90AC-19FDFAEC8390}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35B019D-B448-4241-90AC-19FDFAEC8390}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35B019D-B448-4241-90AC-19FDFAEC8390}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DB0580FA-9DEF-455D-9A62-741201A1BD62}
+	EndGlobalSection
+EndGlobal
